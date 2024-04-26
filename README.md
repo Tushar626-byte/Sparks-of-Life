@@ -1,11 +1,10 @@
 # Sparks of Life
 
-Welcome to the Sparks of Life project! This repository is dedicated to exploring the fascinating intersection of technology and biology.
+Welcome to the Sparks of Life project! This repository is dedicated to exploring a Animation using html,css,js.
 
-## Description
-
-Sparks of Life is an initiative to create simulations that mimic biological processes using cutting-edge technology. Our goal is to provide educational tools that can be used to teach complex life sciences concepts in an interactive and engaging way.
-
+## Features
+Dynamic Sparkling Animation: Sparks of light dynamically appear and disappear at random positions on the screen.
+Customizable: Easily customize the size, color, duration, and frequency of the sparks by adjusting the parameters in the code.
 ## Getting Started
 
 ### Dependencies
